@@ -1,0 +1,6 @@
+﻿CREATE TABLE [EnSek].[Account]
+(
+	[AccountId] INT NOT NULL PRIMARY KEY,
+	[FirstName] VARCHAR(50) NOT NULL,
+	[Surname] VARCHAR(50) NOT NULL
+)

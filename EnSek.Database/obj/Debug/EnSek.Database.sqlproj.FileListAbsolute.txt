@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\EnSek.Database\obj\Debug\EnSek.Database.dll
+C:\Users\Admin\source\repos\EnSek.Database\obj\Debug\EnSek.Database.pdb
+C:\Users\Admin\source\repos\EnSek.Database\obj\Debug\EnSek.Database.sqlprojAssemblyReference.cache
+C:\Users\Admin\source\repos\EnSek.Database\EnSek.Database.dacpac
+C:\Users\Admin\source\repos\EnSek.Database\obj\Debug\Model.xml
+C:\Users\Admin\source\repos\EnSek.Database\obj\Debug\refactor.xml
+C:\Users\Admin\source\repos\EnSek.Database\obj\Debug\postdeploy.sql
+C:\Users\Admin\source\repos\EnSek.Database\obj\Debug\predeploy.sql
+C:\Users\Admin\source\repos\EnSek.Database\EnSek.Database.dll
+C:\Users\Admin\source\repos\EnSek.Database\EnSek.Database.pdb
