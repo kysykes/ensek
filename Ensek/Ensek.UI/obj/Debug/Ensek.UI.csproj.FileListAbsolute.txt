@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\MeterReadings.g.cs
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI_MarkupCompile.cache
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI_MarkupCompile.lref
+C:\Users\Admin\source\repos\Ensek.UI\bin\Debug\Ensek.UI.exe.config
+C:\Users\Admin\source\repos\Ensek.UI\bin\Debug\Ensek.UI.exe
+C:\Users\Admin\source\repos\Ensek.UI\bin\Debug\Ensek.UI.pdb
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\MeterReadings.baml
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI.g.resources
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI.Properties.Resources.resources
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI.exe
+C:\Users\Admin\source\repos\Ensek.UI\obj\Debug\Ensek.UI.pdb
